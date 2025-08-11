@@ -58,37 +58,3 @@ I focus on **cloud identity abuse** (Azure/AWS), **service principal risk**, and
 
 
 <sub>Last updated: <img src="https://img.shields.io/badge/UTC-auto-grey?logo=github" alt="date"/></sub>
-```
-
----
-
-### `assets/header.svg`
-
-```svg
-<!-- assets/header.svg -->
-<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Marios Gyftos — Cloud & Offensive Security">
-  <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0ea5e9"/>
-      <stop offset="50%" stop-color="#7c3aed"/>
-      <stop offset="100%" stop-color="#ef4444"/>
-    </linearGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-opacity="0.25"/>
-    </filter>
-  </defs>
-  <rect x="0" y="0" width="1200" height="280" rx="24" fill="url(#g)"/>
-  <g filter="url(#shadow)">
-    <text x="60" y="140" fill="#fff" font-family="'Segoe UI', system-ui, -apple-system, Ubuntu, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif" font-weight="800" font-size="54">Marios Gyftos</text>
-    <text x="60" y="188" fill="#E6E6E6" font-family="'Segoe UI', system-ui, -apple-system, Ubuntu, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif" font-size="24">Cloud & Offensive Security · Red Team · Identity Abuse</text>
-    <text x="60" y="224" fill="#B3F0FF" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="18">aka nintendo</text>
-  </g>
-  <g transform="translate(980,60)">
-    <rect width="140" height="160" rx="16" fill="#0b1020" fill-opacity="0.25" stroke="#ffffff" stroke-opacity="0.35"/>
-    <path d="M24 48 h92 v64 h-92 z" fill="#ffffff" fill-opacity="0.2"/>
-    <path d="M40 68 h60 v24 h-60 z" fill="#ffffff" fill-opacity="0.32"/>
-  </g>
-</svg>
-```
-
----
