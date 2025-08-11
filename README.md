@@ -32,8 +32,6 @@ I'm **Marios Gyftos** (aka **nintendo**) — a senior security consultant and te
 - **The Dark Side of DevOps (BSides Chicago 2023)** — Secrets → CI/CD → Cloud compromise; cloud/AD interconnectivity.  
   ▶ Session: https://sessionize.com/s/marios-gyftos/the-dark-side-of-devops/75154
 
-> Full list with links lives in **TALKS.md** (you can auto‑update it via the included workflow/script).
-
 ---
 
 ### 🧪 Research & CVEs
