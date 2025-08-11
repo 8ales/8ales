@@ -1,86 +1,102 @@
-# Marios Gyftos (nintendo)
 
-<!-- Profile README -->
+<!-- GitHub Profile README for Marios Gyftos (aka nintendo) -->
 
-<h1 align="center">Marios Gyftos — Senior Penetration Tester / Cloud Security</h1>
-<p align="center">Chicago, IL · AWS · Azure · GCP · Red/Purple Team · DevOps & Identity Abuse</p>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:marios.gyf@gmail.com">Email</a> •
-  <a href="https://sessionize.com/marios-gyftos/">Sessionize</a>
-</p>
+  <!-- Banner (add the provided assets/header.svg to your repo) -->
+  <img src="assets/header.svg" alt="Marios Gyftos — Cloud & Offensive Security" width="100%"/>
 
----
+  <p>
+    <a href="mailto:marios.gyf@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-marios.gyf%40gmail.com-333?style=for-the-badge&logo=gmail"></a>
+    <a href="https://www.linkedin.com/in/marios-gyftos-a6b62122/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marios%20Gyftos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://sessionize.com/marios-gyftos/"><img alt="Sessionize" src="https://img.shields.io/badge/Sessionize-Speaker%20Profile-2BB869?style=for-the-badge&logo=sessionize&logoColor=white"></a>
+    <a href="docs/cv/Marios-Gyftos-CV-2025.pdf"><img alt="CV 2025" src="https://img.shields.io/badge/CV-2025-black?style=for-the-badge"></a>
+  </p>
 
-### About
-Senior security consultant and team lead focused on **attack & penetration testing**, **cloud threat emulation**, and **identity abuse** across **Azure, AWS, and GCP**. Background includes red teaming, purple teaming, and DevOps attack paths. Previously contributed research that resulted in multiple CVEs and conference talks.
-
-> Educational use only. Opinions are my own and not my employer’s.
+</div>
 
 ---
 
-### Talks & Conferences
-- **2025 — The Walking Dead of Active Directory**  
-  How disabled AD accounts can be resurrected (and how ADRB can be abused).  
-  Session: https://sessionize.com/s/marios-gyftos/the-walking-dead-of-active-directory/143305
+### 👋 Whoami
+I'm **Marios Gyftos** (aka **nintendo**) — a senior security consultant and team lead focused on **attack & penetration testing**, **cloud threat emulation**, and **identity abuse** across **Azure, AWS, and GCP**. I publish PoCs, speak at community events, and build practical tools.
 
-- **2025 — May the Least Privilege Be With You: Exposing the Dark Side of Azure Service Principal Permissions**  
-  Research on dangerous Graph permissions & non-privileged Entra ID roles + intro to Azure AppHunter.  
-  Session: https://sessionize.com/s/marios-gyftos/may-the-least-privilege-be-with-you-exposing-the-d/143304
-
-- **2024 — Cloud Convergence: Exploring the Interconnected World of Cloud, DevOps and AD in Penetration Testing (BSides Athens)**  
-  Session: https://sessionize.com/s/marios-gyftos/cloud-convergence-exploring-the-interconnected-wor/101053
-
-- **2023 — The Dark Side of DevOps (BSides Chicago)**  
-  Secrets → CI/CD → Cloud compromise; cloud/AD interconnectivity.  
-  Session: https://sessionize.com/s/marios-gyftos/the-dark-side-of-devops/75154
-
-> Full Sessionize profile: https://sessionize.com/marios-gyftos/
+> **Disclaimer:** Views are my own; content is for educational purposes only.
 
 ---
 
-### Experience (high level)
-- **Senior Cyber Security Consultant — EY (USA)**, 2020–present  
-  Team lead for APT/red team & **cloud PT** (AWS/Azure/GCP), **cloud threat emulation**, DevOps PT, purple team.
-- **Junior Cyber Security Consultant — EY (Greece)**, 2017–2019  
-- **Assistant Network Administrator — Hellenic Army**, 2017  
-- **Security Lab Assistant — NTUA (ECE)**, 2016
+### 🎤 Talks & Conferences (highlights)
+- **The Walking Dead of Active Directory (2025)** — Bringing disabled accounts back to life; abusing ADRB for stealthy restore paths.  
+  ▶ Session: https://sessionize.com/s/marios-gyftos/the-walking-dead-of-active-directory/143305
+- **May the Least Privilege Be With You: Exposing the Dark Side of Azure Service Principal Permissions (2025)** — Dangerous Graph permissions & non‑privileged Entra ID roles; intro to Azure AppHunter.  
+  ▶ Session: https://sessionize.com/s/marios-gyftos/may-the-least-privilege-be-with-you-exposing-the-d/143304
+- **Cloud Convergence: Interconnected Cloud, DevOps & AD in Pentesting (BSides Athens 2024)**  
+  ▶ Session: https://sessionize.com/s/marios-gyftos/cloud-convergence-exploring-the-interconnected-wor/101053
+- **The Dark Side of DevOps (BSides Chicago 2023)** — Secrets → CI/CD → Cloud compromise; cloud/AD interconnectivity.  
+  ▶ Session: https://sessionize.com/s/marios-gyftos/the-dark-side-of-devops/75154
+
+> Full list with links lives in **TALKS.md** (you can auto‑update it via the included workflow/script).
 
 ---
 
-### Research & CVEs
-- **Oracle Health Sciences Applications**: CVE-2019-2431 (XSS), CVE-2019-2430 (IDOR), CVE-2019-2432 (PrivEsc)  
-- **Microsoft Dynamics 365**: CVE-2018-8607 (XSS)  
+### 🧪 Research & CVEs
+- Oracle Health Sciences Applications: **CVE‑2019‑2431** (XSS), **CVE‑2019‑2430** (IDOR), **CVE‑2019‑2432** (PrivEsc)
+- Microsoft Dynamics 365: **CVE‑2018‑8607** (XSS)
 - Contributor: **Nuages C2**
 
 ---
 
-### Publications
-- **Cloud Convergence** — BSides Athens 2024  
-- **The Dark Side of DevOps** — BSides Chicago 2023  
-- **On Entropy-Based Detection of DDoS attacks** — Proc. 16th European Conf. on Cyber Warfare & Security (2017)
+### 🏅 Training · Awards
+![OSCP](https://img.shields.io/badge/OSCP-red?style=flat-square) ![OSWE](https://img.shields.io/badge/OSWE-orange?style=flat-square) ![GCPN](https://img.shields.io/badge/SANS%20GCPN-0A6?style=flat-square) ![SEC642](https://img.shields.io/badge/SANS%20SEC642-555?style=flat-square)
+
+Cloud Village CTF: **DEF CON 2024 (3rd)**, **RSA 2024 (2nd)**; **DEF CON 2023 (2nd)**  
+ECSC Greece Team (2017) · Panoptis National Military Cyber‑Defense Exercise — **1st place**
 
 ---
 
-### Training / Certifications / Awards
-- **OSCP**, **OSWE**, **SANS SEC588 (GCPN)**, **SANS SEC642**  
-- **Cloud Village CTF**: DEF CON 2024 (3rd), RSA 2024 (2nd); **DEF CON 2023** (2nd)  
-- **ECSC Greece Team** (2017); **Panoptis National Military Cyber-Defense Exercise** (1st place)
+### 🧑‍💻 What I’m building
+I focus on **cloud identity abuse** (Azure/AWS), **service principal risk**, and **operator‑friendly tooling**.
+
+> Tip: Pin your top repos so they appear here on the profile.
 
 ---
 
-### Education
-- **Diploma in Electrical & Computer Engineering (BSc+MSc equiv.) — NTUA**  
-  Thesis: *Detecting attacks using an entropy method* (10/10)
+### 📄 CV
+- **2025 CV:** [docs/cv/Marios-Gyftos-CV-2025.pdf](docs/cv/Marios-Gyftos-CV-2025.pdf)
 
 ---
 
-### CVs
-- **Detailed CV (2025):** `docs/cv/Marios-Gyftos-CV-2025.pdf`  
-  _(Add this PDF to your repo at that path so the link works.)_
+<sub>Last updated: <img src="https://img.shields.io/badge/UTC-auto-grey?logo=github" alt="date"/></sub>
+```
 
 ---
 
-### Contact / Speaking
-- 📫 **marios.gyf@gmail.com**
-- For speaking invites: Sessionize profile (availability & topics): https://sessionize.com/marios-gyftos/
+### `assets/header.svg`
+
+```svg
+<!-- assets/header.svg -->
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Marios Gyftos — Cloud & Offensive Security">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="50%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#ef4444"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+  <rect x="0" y="0" width="1200" height="280" rx="24" fill="url(#g)"/>
+  <g filter="url(#shadow)">
+    <text x="60" y="140" fill="#fff" font-family="'Segoe UI', system-ui, -apple-system, Ubuntu, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif" font-weight="800" font-size="54">Marios Gyftos</text>
+    <text x="60" y="188" fill="#E6E6E6" font-family="'Segoe UI', system-ui, -apple-system, Ubuntu, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif" font-size="24">Cloud & Offensive Security · Red Team · Identity Abuse</text>
+    <text x="60" y="224" fill="#B3F0FF" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="18">aka nintendo</text>
+  </g>
+  <g transform="translate(980,60)">
+    <rect width="140" height="160" rx="16" fill="#0b1020" fill-opacity="0.25" stroke="#ffffff" stroke-opacity="0.35"/>
+    <path d="M24 48 h92 v64 h-92 z" fill="#ffffff" fill-opacity="0.2"/>
+    <path d="M40 68 h60 v24 h-60 z" fill="#ffffff" fill-opacity="0.32"/>
+  </g>
+</svg>
+```
+
+---
