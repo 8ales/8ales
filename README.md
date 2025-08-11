@@ -10,7 +10,7 @@
     <a href="mailto:marios.gyf@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-marios.gyf%40gmail.com-333?style=for-the-badge&logo=gmail"></a>
     <a href="https://www.linkedin.com/in/marios-gyftos-a6b62122/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marios%20Gyftos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://sessionize.com/marios-gyftos/"><img alt="Sessionize" src="https://img.shields.io/badge/Sessionize-Speaker%20Profile-2BB869?style=for-the-badge&logo=sessionize&logoColor=white"></a>
-    <a href="docs/cv/Marios-Gyftos-CV-2025.pdf"><img alt="CV 2025" src="https://img.shields.io/badge/CV-2025-black?style=for-the-badge"></a>
+    
   </p>
 
 </div>
