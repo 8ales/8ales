@@ -56,10 +56,6 @@ I focus on **cloud identity abuse** (Azure/AWS), **service principal risk**, and
 
 ---
 
-### 📄 CV
-- **2025 CV:** [docs/cv/Marios-Gyftos-CV-2025.pdf](docs/cv/Marios-Gyftos-CV-2025.pdf)
-
----
 
 <sub>Last updated: <img src="https://img.shields.io/badge/UTC-auto-grey?logo=github" alt="date"/></sub>
 ```
