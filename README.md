@@ -25,7 +25,7 @@ I'm **Marios Gyftos** (aka **nintendo**) — a senior security consultant and te
 ---
 
 ### 🎤 Talks & Conferences (highlights)
-- **May the Least Privilege Be With You: Exposing the Dark Side of Azure Service Principal Permissions (2025)** — Dangerous Graph permissions & non‑privileged Entra ID roles; intro to Azure AppHunter.  
+- **May the Least Privilege Be With You: Exposing the Dark Side of Azure Service Principal Permissions (DefCon 2025)** — Dangerous Graph permissions & non‑privileged Entra ID roles; intro to Azure AppHunter.  
   ▶ Session: https://sessionize.com/s/marios-gyftos/may-the-least-privilege-be-with-you-exposing-the-d/143304
 - **Cloud Convergence: Interconnected Cloud, DevOps & AD in Pentesting (BSides Athens 2024)**  
   ▶ Session: https://sessionize.com/s/marios-gyftos/cloud-convergence-exploring-the-interconnected-wor/101053
