@@ -25,8 +25,6 @@ I'm **Marios Gyftos** (aka **nintendo**) — a senior security consultant and te
 ---
 
 ### 🎤 Talks & Conferences (highlights)
-- **The Walking Dead of Active Directory (2025)** — Bringing disabled accounts back to life; abusing ADRB for stealthy restore paths.  
-  ▶ Session: https://sessionize.com/s/marios-gyftos/the-walking-dead-of-active-directory/143305
 - **May the Least Privilege Be With You: Exposing the Dark Side of Azure Service Principal Permissions (2025)** — Dangerous Graph permissions & non‑privileged Entra ID roles; intro to Azure AppHunter.  
   ▶ Session: https://sessionize.com/s/marios-gyftos/may-the-least-privilege-be-with-you-exposing-the-d/143304
 - **Cloud Convergence: Interconnected Cloud, DevOps & AD in Pentesting (BSides Athens 2024)**  
