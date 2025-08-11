@@ -42,7 +42,7 @@ I'm **Marios Gyftos** (aka **nintendo**) — a senior security consultant and te
 ---
 
 ### 🏅 Training · Awards
-![OSCP](https://img.shields.io/badge/OSCP-red?style=flat-square) ![OSWE](https://img.shields.io/badge/OSWE-orange?style=flat-square) ![GCPN](https://img.shields.io/badge/SANS%20GCPN-0A6?style=flat-square) ![SEC642](https://img.shields.io/badge/SANS%20SEC642-555?style=flat-square)
+![OSCP]<img src="Pictures/oscp-logo-2.png" width="90" alt="OSCP" /> ![OSWE]<img src="Pictures/oswe-logo-2.png" width="90" alt="OSWE" /> ![GCPN](https://img.shields.io/badge/SANS%20GCPN-0A6?style=flat-square) ![SEC642](https://img.shields.io/badge/SANS%20SEC642-555?style=flat-square)
 
 Cloud Village CTF: **DEF CON 2024 (3rd)**, **RSA 2024 (2nd)**; **DEF CON 2023 (2nd)**  
 ECSC Greece Team (2017) · Panoptis National Military Cyber‑Defense Exercise — **1st place**
