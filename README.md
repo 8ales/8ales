@@ -13,7 +13,7 @@
     
   </p>
  <a href="https://www.linkedin.com/in/marios-gyftos-a6b62122/">
-    <img src="Pictures/linkedin.jpg" alt="Scan to connect on LinkedIn" width="300">
+    <img src="Pictures/linkedin-image.jpg" alt="Scan to connect on LinkedIn" width="300">
   </a>
   <br/>
   <sub>Scan to connect on LinkedIn</sub>
