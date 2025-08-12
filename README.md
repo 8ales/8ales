@@ -4,7 +4,7 @@
 <div align="center">
 
   <!-- Banner (add the provided assets/header.svg to your repo) -->
-  <h1>Marios Gyftos — Cloud & Offensive Security</h1>
+  <h1>Marios Gyftos — Senior Cloud & Offensive Security Consultant</h1>
 
   <p>
     <a href="mailto:marios.gyf@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-marios.gyf%40gmail.com-333?style=for-the-badge&logo=gmail"></a>
