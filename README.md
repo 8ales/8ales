@@ -12,7 +12,11 @@
     <a href="https://sessionize.com/marios-gyftos/"><img alt="Sessionize" src="https://img.shields.io/badge/Sessionize-Speaker%20Profile-2BB869?style=for-the-badge&logo=sessionize&logoColor=white"></a>
     
   </p>
-
+ <a href="https://www.linkedin.com/in/marios-gyftos-a6b62122/">
+    <img src="Pictures/linkedin.jpeg" alt="Scan to connect on LinkedIn" width="150">
+  </a>
+  <br/>
+  <sub>Scan to connect on LinkedIn</sub>
 </div>
 
 ---
